@@ -113,13 +113,13 @@ img{
 }*/
 
 
-.load{
+/* .load{
   position: fixed;
   height: 50px;  
   bottom:5%;
   right: 2%;
   z-index: 99999;
-}
+} */
 
 .center {
     text-align: center;
